@@ -1,0 +1,9 @@
+﻿{
+	"name": "Disable-Camera-Sway",
+	"description": "Prevents the automatic camera rotation that happens when the user isn't changing directions for some time.",
+	"releases": [
+		{
+			"version": "1.0.0",
+		}
+	]
+}
